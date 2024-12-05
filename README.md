@@ -32,10 +32,7 @@ step 4: 执行
 ```shell
   docker-compose build && docker-compose up -d
 ```
-
-step 5: 遇到问题可以在[知识星球](https://t.zsxq.com/0dpu05aPO)找咸鱼(SaltFish)
-
-  <img decoding="async" src="./CopyRight.jpg" width="50%">
+step 5: 如果还搞不定，可以微tonyfei8 有偿服务
 
 step 6: 赞助我
  https://paypal.me/saltfish123585?country.x=C2&locale.x=zh_XC
