@@ -34,9 +34,5 @@ step 4: 执行
 ```
 step 5: 如果还搞不定，可以微tonyfei8 有偿服务
 
-step 6: 赞助我
- https://paypal.me/saltfish123585?country.x=C2&locale.x=zh_XC
- ![微信图片_20241120215113](https://github.com/user-attachments/assets/756626d2-b04f-4dce-a3b8-33b58f761bdc)
- ![微信图片_20241120215118](https://github.com/user-attachments/assets/5bfa3841-80c6-4446-86d9-1e71b2be2263)
 
 
